@@ -30,3 +30,4 @@ This is the list of students in WD16-KodeGo-Batch and project information and co
 1. Rachel Mark
 1. Daisy Passobillo 
 1. Wesley Rafael
+1. Kenenth Karl Aranza
